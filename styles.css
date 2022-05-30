@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+/* Font weights: 400 and 700 */
+
+:root {
+    --background: #171738;
+    --btn-background: #2C256A;
+    --header-color: #fff;
+    --text-color: rgba(255, 255, 255, 0.75);
+    --textbox-background: rgba(255, 255, 255, 0.1);
+    --close-x-color: rgba(255, 255, 255, 0.35);
+}
